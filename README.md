@@ -9,7 +9,7 @@
 - 📫 How to reach me **pprashantsingh2002@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IeH8Aldm92wD6NBwNFGCl1c43nS1ps_a/view?usp=drive_link](https://drive.google.com/file/d/1IeH8Aldm92wD6NBwNFGCl1c43nS1ps_a/view?usp=drive_link)
-- 📄 My Portfolio (https://portfolio3677.netlify.app)
+- 📄 My Portfolio https://portfolio3677.netlify.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
