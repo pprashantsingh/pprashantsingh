@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pprashantsingh&label=Profile%20views&color=0e75b6&style=flat" alt="pprashantsingh" /> </p>
 
-- 💬 Ask me about **MeangoDB,Express.js,Angular,Node.js**
+- 💬 Ask me about **MongoDB,Express.js,Angular,Node.js**
 
 - 📫 How to reach me **pprashantsingh2002@gmail.com**
 
